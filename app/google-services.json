@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038547137278",
+    "project_id": "okcobe12345",
+    "storage_bucket": "okcobe12345.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038547137278:android:f1e708504de3a07afaebaf",
+        "android_client_info": {
+          "package_name": "com.example.testfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy58VUxZkEvwaQN3lu7HX2dFV9pblXJ7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
